@@ -8,8 +8,6 @@
 
 Pour **renforcer** la cohésion entre les promotions et encourager la **transmission** d'expérience, il devient nécessaire de mettre en place un système de **mentorat**. Ce système vise à **créer** des ponts entre les anciens et les nouveaux apprenants, afin de favoriser **l'accompagnement**, le partage de conseils et l'entraide.
 
----
-
 ## Les objectifs
 
 Le projet consiste à **réaliser** un système de mentorat qui **aidera** l'organisation **Simplon** à mettre en place une plateforme intuitive et facile d'utilisation pour les mentors et les mentorés.
@@ -18,14 +16,8 @@ L'objectif est de maintenir les **alumnis** au sein du Discord de Simplon _(ou v
 
 Le **but** principal est donc de maintenir une **communauté** engagée et solidaire au sein de **Simplon**.
 
----
-
 ## Les technologies utilisées
 
----
-
 ## L'architecture globale
-
----
 
 [Conception](./conception/)
